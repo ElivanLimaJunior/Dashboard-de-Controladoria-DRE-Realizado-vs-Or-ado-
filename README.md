@@ -2,7 +2,8 @@
 
 Projeto final da formação **Xperiun: Power BI Data Analyst** (8 cursos, 40h — do básico ao intermediário). Um dashboard de DRE (Demonstrativo de Resultado do Exercício) construído em aula, simulando um case real de controladoria: monitorar receita, margem de contribuição, despesas e resultado líquido de uma empresa, comparando o realizado com orçado/previsto e com histórico desde 2021.
 
-![Dashboard DRE](./dashboard-dre.png)
+<img width="1362" height="738" alt="image" src="https://github.com/user-attachments/assets/3cab045b-72c2-4c69-a802-1d5286d90ecc" />
+
 
 ## Contexto
 
@@ -160,6 +161,6 @@ Projeto desenvolvido durante a certificação **Xperiun: Power BI Data Analyst**
 
 ## Links
 
-- Link do projeto:
-- Link do portfólio:
-- Link do projeto no GitHub:
+- Link do projeto: 
+- Link do portfólio: https://elivan-portifolio-ds.vercel.app
+- Link do projeto no GitHub: https://github.com/ElivanLimaJunior/Dashboard-de-Controladoria-DRE-Realizado-vs-Or-ado-
