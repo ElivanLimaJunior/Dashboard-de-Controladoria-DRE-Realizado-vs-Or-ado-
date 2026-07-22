@@ -153,7 +153,7 @@ O modelo conta com 41 medidas ao todo, organizadas em três pastas de exibição
 - **DAX**: medidas de comparação (realizado vs meta), YTD, análise vertical/horizontal e lógica de subtotal dinâmico por nível do plano de contas.
 - **Storytelling e visualização de dados**: cartões com flags de cor, títulos dinâmicos e narrativa guiada (melhor mês, pior mês, acumulado do ano).
 - **Design de dashboards (Figma)**: layout do painel antes da construção no Power BI.
-- **Power BI Serviço**: publicação para consumo mensal pela diretoria.
+- **Power BI Serviço**: publicação para consumo.
 
 ## Formação
 
